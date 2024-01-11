@@ -1,0 +1,15 @@
+C:\Users\azhel\Desktop\institC#\potoki\potoki\bin\Debug\net6.0\potoki.exe
+C:\Users\azhel\Desktop\institC#\potoki\potoki\bin\Debug\net6.0\potoki.deps.json
+C:\Users\azhel\Desktop\institC#\potoki\potoki\bin\Debug\net6.0\potoki.runtimeconfig.json
+C:\Users\azhel\Desktop\institC#\potoki\potoki\bin\Debug\net6.0\potoki.dll
+C:\Users\azhel\Desktop\institC#\potoki\potoki\bin\Debug\net6.0\potoki.pdb
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.csproj.AssemblyReference.cache
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.AssemblyInfoInputs.cache
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.AssemblyInfo.cs
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.csproj.CoreCompileInputs.cache
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.dll
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\refint\potoki.dll
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.pdb
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\potoki.genruntimeconfig.cache
+C:\Users\azhel\Desktop\institC#\potoki\potoki\obj\Debug\net6.0\ref\potoki.dll

@@ -1,0 +1,15 @@
+C:\Users\azhel\стол\institC#\polin\polin\bin\Debug\net6.0\polin.exe
+C:\Users\azhel\стол\institC#\polin\polin\bin\Debug\net6.0\polin.deps.json
+C:\Users\azhel\стол\institC#\polin\polin\bin\Debug\net6.0\polin.runtimeconfig.json
+C:\Users\azhel\стол\institC#\polin\polin\bin\Debug\net6.0\polin.dll
+C:\Users\azhel\стол\institC#\polin\polin\bin\Debug\net6.0\polin.pdb
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.csproj.AssemblyReference.cache
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.AssemblyInfoInputs.cache
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.AssemblyInfo.cs
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.csproj.CoreCompileInputs.cache
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.dll
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\refint\polin.dll
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.pdb
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\polin.genruntimeconfig.cache
+C:\Users\azhel\стол\institC#\polin\polin\obj\Debug\net6.0\ref\polin.dll

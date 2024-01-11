@@ -1,0 +1,14 @@
+C:\Users\azhel\Desktop\institC#\matrix\matrix\bin\Debug\net6.0\matrix.exe
+C:\Users\azhel\Desktop\institC#\matrix\matrix\bin\Debug\net6.0\matrix.deps.json
+C:\Users\azhel\Desktop\institC#\matrix\matrix\bin\Debug\net6.0\matrix.runtimeconfig.json
+C:\Users\azhel\Desktop\institC#\matrix\matrix\bin\Debug\net6.0\matrix.dll
+C:\Users\azhel\Desktop\institC#\matrix\matrix\bin\Debug\net6.0\matrix.pdb
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.AssemblyInfoInputs.cache
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.AssemblyInfo.cs
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.dll
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\refint\matrix.dll
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.pdb
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\matrix.genruntimeconfig.cache
+C:\Users\azhel\Desktop\institC#\matrix\matrix\obj\Debug\net6.0\ref\matrix.dll

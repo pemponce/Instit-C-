@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\azhel\\Desktop\\institC#\\numseven\\numseven\\numseven.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\azhel\\Desktop\\institC#\\numseven\\numseven\\numseven.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azhel\\Desktop\\institC#\\numseven\\numseven\\numseven.csproj",
+        "projectName": "numseven",
+        "projectPath": "C:\\Users\\azhel\\Desktop\\institC#\\numseven\\numseven\\numseven.csproj",
+        "packagesPath": "C:\\Users\\azhel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azhel\\Desktop\\institC#\\numseven\\numseven\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azhel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EmguCV": {
+              "target": "Package",
+              "version": "[3.1.0.1, )"
+            },
+            "InstagramCSharpSDK": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "LibreMetaverse": {
+              "target": "Package",
+              "version": "[2.0.10.575, )"
+            },
+            "Microsoft.DotNet.Interactive.PackageManagement": {
+              "target": "Package",
+              "version": "[1.0.0-beta.23562.1, )"
+            },
+            "OpenCV.Win.Core": {
+              "target": "Package",
+              "version": "[310.6.1, )"
+            },
+            "OpenCVSharp": {
+              "target": "Package",
+              "version": "[2.4.0.1, )"
+            },
+            "OpenCvSharp-AnyCPU": {
+              "target": "Package",
+              "version": "[2.4.10.20170306, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.8.0.20230708, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

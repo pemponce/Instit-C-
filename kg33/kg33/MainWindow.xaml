@@ -1,0 +1,22 @@
+﻿<Window x:Class="kg33.Task33"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Background="Black"
+        mc:Ignorable="d"
+        Title="Koch Curve" Height="400" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Нарисовать" Click="DrawButton_Click" HorizontalAlignment="Center" Margin="66,10,0,0"/>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBlock Text="Итерации:" Margin="5,0"/>
+            <TextBox x:Name="IterationsTextBox" Width="50" Text="5" Margin="5,0"/>
+        </StackPanel>
+        <Canvas x:Name="Canvas" Grid.Row="2" Background="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
